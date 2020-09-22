@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/ak/batman/batman_bm3_v2_nanosuit_d"
+	"$bumpmap" "models/player/kuristaja/ak/batman/batman_bm3_v2_nanosuit_normal"
+
+	"$phong" "1"
+	"$lightwarptexture" 	"models/player/kuristaja/ak/batman/nano_warp"
+	"$phongexponent" "60"
+	"$phongboost" ".01"
+	"$phongfresnelranges" "[7 5 6]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight"              			 "1"
+	"$rimlightexponent"			"15"
+	"$rimlightboost"			".2"
+}

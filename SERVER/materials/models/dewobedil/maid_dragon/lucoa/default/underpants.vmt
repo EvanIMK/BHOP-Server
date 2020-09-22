@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/maid_dragon/lucoa/default/underpants"
+	"$nodecal" 1
+
+
+	"$lightwarptexture" "models/dewobedil/maid_dragon/lucoa/default/toon_shirt"
+
+	"$phong" "1"
+	"$phongboost"	".05"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/dewobedil/maid_dragon/lucoa/default/phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

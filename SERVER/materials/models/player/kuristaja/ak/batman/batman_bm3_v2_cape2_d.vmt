@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	// CAPE INSIDE
+
+	"$basetexture" "models/player/kuristaja/ak/batman/batman_bm3_v2_cape_d"
+	"$bumpmap" "models/player/kuristaja/ak/batman/batman_bm3_v2_cape_normal"
+
+	"$alphatest" "1"
+	"$alphatestreference" ".4"
+
+	"$phong" "1"
+	"$phongexponent" "60"
+	"$phongboost" ".02"
+	"$phongfresnelranges" "[4 6 8]"
+	"$lightwarptexture" 	"models/player/kuristaja/ak/batman/leather_warp"
+	"$PhongAlbedoTint" "1"
+
+	"$color" "{200.0 200.0 200.0}"
+
+}

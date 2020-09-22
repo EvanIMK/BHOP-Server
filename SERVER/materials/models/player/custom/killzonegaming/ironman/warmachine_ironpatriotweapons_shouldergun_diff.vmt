@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom/killzonegaming/ironman/WarMachine_IronPatriotWeapons_ShoulderGun_Diff"
+	"$bumpmap" "models/player/custom/killzonegaming/ironman/WarMachine_weapons_ShoulderGun_Norm"
+
+	"$phong" "1"
+	"$phongboost" ".2"
+	"$phongexponent" "20"
+	"$phongfresnelranges" "[.5 2 8]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "35"
+	"$rimlightboost" ".7"				
+}

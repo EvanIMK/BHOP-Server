@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/shrek/shrekhead"
+	"$bumpmap" "models/player/kuristaja/shrek/shrekhead_normal"
+
+	"$phong" "1"
+	"$phongexponent" "80"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[.1 0.1 1]"
+	"$halflambert" "1"
+           	"$rimlight" "1"										
+	"$rimlightexponent" "0.01"						
+	"$rimlightboost" "0.01"
+
+}

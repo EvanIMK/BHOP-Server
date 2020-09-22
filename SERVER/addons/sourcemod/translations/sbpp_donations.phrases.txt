@@ -1,0 +1,21 @@
+"Phrases"
+{
+	"Advertisement Message"
+	{
+		"en"	"Type '!donate' in chat to donate today!"
+        "de"    "Geben Sie '!donate' in den Textchat ein um zu spenden!"
+	}
+
+	"Menu Title"
+	{
+		"en"	"Pick an amount below:"
+        "de"    "Wählen Sie einen Betrag aus:"
+	}
+
+    "Minimum Amount"
+    {
+        "#format"   "{1:i}"
+        "en"        "Minimum amount: {1} dollars."
+        "de"        "Minimaler Betrag: {1} Euro."
+    }
+}

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/ak/batman/eyes"
+	"$bumpmap" "models/player/kuristaja/ak/batman/eyes_normal"
+
+	"$phong" 			"1"
+	"$phongboost"			"50"
+	"$phongexponent"			"40"
+	"$phongfresnelranges"		"[.05 .1 .2]"
+}

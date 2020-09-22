@@ -1,0 +1,5 @@
+discord
+python-valve
+steamid
+mysql
+steam

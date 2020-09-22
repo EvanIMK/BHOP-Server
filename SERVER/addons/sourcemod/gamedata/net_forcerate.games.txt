@@ -1,0 +1,34 @@
+"Games"
+{
+	"csgo"
+	{
+		"Keys"
+		{
+			"INTERFACEVERSION_VENGINESERVER" "VEngineServer023"
+		}
+		
+		"Offsets"
+		{
+			"GetPlayerNetInfo"
+			{
+				"linux"	"21"
+				"windows" "21"
+			}
+			"m_Rate"
+			{
+				"linux" "70"
+				"windows" "280"
+			}
+		}
+		
+		"Signatures"
+		{
+			"CreateInterface"
+			{
+				"library" "engine"
+				"linux" "@CreateInterface"
+				"windows" "@CreateInterface"
+			}
+		}
+	}
+}

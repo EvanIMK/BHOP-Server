@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/ak/batman/batman_bm3_v2_metal_2_d"
+	"$bumpmap" "models/player/kuristaja/ak/batman/batman_bm3_v2_metal_2_normal"
+
+	"$phong" "1"
+	"$lightwarptexture" 	"models/player/kuristaja/ak/batman/leather_warp"
+	"$phongexponent" "70"
+	"$phongboost" ".06"
+	"$phongfresnelranges" "[7 6 8]"
+	"$PhongAlbedoTint" "1"
+
+	"$envmap" 			"env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" 			"[.045 .045 .045]"
+
+	"$rimlight"              			 "1"
+	"$rimlightexponent"			"15"
+	"$rimlightboost"			".2"
+}

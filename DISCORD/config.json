@@ -1,0 +1,14 @@
+{
+    "bot_token": 		"",
+    "command_prefix":   "!",
+    "embed_icon":       "https://cdn.discordapp.com/attachments/664112992757088289/676022960968171537/logo.png",
+    "server_ip": 		"",
+    "server_port": 		27015,
+	"server_name": 		"",
+	"db_ip": 			"",
+	"db_database":		"",
+	"db_user": 			"",
+	"db_pass": 			"",
+	"table_prefix": 	"",
+	"webstats_url": 	""
+}

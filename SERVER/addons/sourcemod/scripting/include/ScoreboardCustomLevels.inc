@@ -1,0 +1,1 @@
+native int SCL_GetLevel(client);

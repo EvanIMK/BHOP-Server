@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\custom_player\eminem\pedobear\pedobear_d"
+	"$bumpmap"     "models\player\custom_player\eminem\pedobear\pedobear_n"
+}

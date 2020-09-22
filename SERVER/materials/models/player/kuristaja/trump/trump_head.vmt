@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/trump/trump_skin"
+	"$bumpmap" "models/player/kuristaja/trump/trump_skin_normal"
+
+	"$phong" "1"
+	"$phongboost" ".5"
+	"$phongexponent" "15"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "1"
+	"$color2"			"[0 0 0]"
+	"$blendTintByBaseAlpha"		"1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"
+	"$rimlightboost" "2"
+	"$rimmask" "1"  
+}

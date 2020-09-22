@@ -1,0 +1,14 @@
+"Games"
+{
+	"csgo"
+	{
+		"Offsets"
+		{
+			"CBaseClient::NETMsg_SetConVar"
+			{
+				"windows"	"6"
+				"linux"		"42"
+			}
+		}
+	}
+}

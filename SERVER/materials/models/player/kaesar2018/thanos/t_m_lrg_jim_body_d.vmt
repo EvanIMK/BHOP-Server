@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/kaesar2018/thanos/t_m_lrg_jim_body_d"
+	"$bumpmap" "models/player/kaesar2018/thanos/t_m_lrg_jim_body_n"
+
+	"$phong" "1"
+	"$phongboost" ".2"
+	"$phongexponent" "20"
+	"$phongfresnelranges" "[.5 2 8]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "35"
+	"$rimlightboost" ".35"
+}

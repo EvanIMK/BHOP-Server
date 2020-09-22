@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" 	"models\player\kuristaja\kim_jong_un\body"
+	"$bumpmap" 	"models\player\kuristaja\kim_jong_un\body_normal"
+
+ 	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+
+	$rimlight 1
+	$rimlightboost .5
+	$rimlightexponent 12
+
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/trump/trump_hair"
+	"$bumpmap" "models/player/kuristaja/trump/trump_hair_normal"
+
+	$phong	1
+	$phongboost		7.5
+	$phongexponent		5
+	$phongtint		"[.8 .7 .4]"
+	$phongfresnelranges	"[.35 .25 0]"
+}

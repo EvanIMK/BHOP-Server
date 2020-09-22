@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/trump/trump_suit"
+	"$bumpmap" "models/player/kuristaja/trump/trump_suit_normal"
+
+	"$phong" "1"
+	"$phongexponent" "65"
+	"$phongboost" ".40"	
+
+	"$phongfresnelranges"	"[.5 .5 8]"
+	"$halflambert" "0"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"
+	"$rimlightboost" ".75"
+}

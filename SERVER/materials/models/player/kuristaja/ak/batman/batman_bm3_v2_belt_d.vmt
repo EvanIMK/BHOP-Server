@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/ak/batman/batman_bm3_v2_belt_d"
+	"$bumpmap" "models/player/kuristaja/ak/batman/batman_bm3_v2_belt_normal"
+
+	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost" "0.45"
+	"$phongfresnelranges" "[2 3 6]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight"              			 "1"
+	"$rimlightexponent"			"15"
+	"$rimlightboost"			".2"
+}

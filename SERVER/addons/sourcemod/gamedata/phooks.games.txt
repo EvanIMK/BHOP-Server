@@ -1,0 +1,53 @@
+"Games"
+{
+	"csgo"
+	{
+		"Signatures"
+		{
+			"GetItemSchema"
+			{
+				"library"	"server"
+				"windows"	"\xA1\x2A\x2A\x2A\x2A\x85\xC0\x75\x2A\xA1\x2A\x2A\x2A\x2A\x56\x68\x2A\x2A\x00\x00\x8B"
+				"linux"		"@_Z13GetItemSchemav"
+			}
+			"GetLoadoutSlot"
+			{
+				"library"	"server"
+				"windows"	"\x55\x8B\xEC\x8B\x45\x08\x83\xF8\x04\x7C\x2A\x8B\x81\x2A\x2A\x2A\x2A\x5D\xC2"
+				"linux"		"@_ZNK24CCStrike15ItemDefinition14GetLoadoutSlotEi"
+			}
+			"HandleCommand_Buy_Internal"//Wildcard first 6 bytes
+			{
+				"library"		"server"
+				"windows"		"\x2A\x2A\x2A\x2A\x2A\x2A\x81\xEC\x2A\x2A\x2A\x2A\x53\x56\x57\x6A\x00\x8B\xF9\xE8\x2A\x2A\x2A\x2A\x33\xC9\x84\xC0"
+				"linux"			"@_ZN9CCSPlayer26HandleCommand_Buy_InternalEPKcib"
+			}
+			"CDownloadListGenerator"
+			{
+				"library"		"engine"
+				"linux"			"@_ZN22CDownloadListGenerator19OnResourcePrecachedEPKc"
+				"windows"		"\x55\x8B\xEC\x81\xEC\x04\x01\x00\x00\x56\x8B\xF1\x8B\x4D\x08"
+			}
+		}
+		"Offsets"
+		{
+			"GetItemDefintionByName" //_ZN15CEconItemSchema23GetItemDefinitionByNameEPKc
+			{
+				"windows"		"42"
+				"linux"			"41"
+			}
+			//Offset into HandleCommand_Buy_Internal
+			//Same as sourcemod cstrike extension.
+			"InventoryOffset"
+			{
+				"windows"	"55"
+				"linux"		"70"
+			}
+			"GetItemInLoadout"
+			{
+				"windows"		"8"
+				"linux"			"9"
+			}
+		}
+	}
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/octodad/octodad_blue"
+	"$bumpmap" 	"models/player/kuristaja/octodad/octodad_normal"
+
+	"$halflambert" 	"1"
+ 	"$phong"		 "1"
+	"$phongexponent" "35"	
+	"$phongboost"	".5"
+
+	"$rimlight"               "1"
+	"$rimlightexponent" "2"
+	"$rimlightboost"	" .5"
+}

@@ -1,0 +1,1227 @@
+"Store"
+{
+	
+	"Pets"
+	{
+		"Chicken"
+		{
+			"model" "models/chicken/chicken.mdl"
+			"position" "50.0 0.0 0.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "idle01"
+			"run" "run01"
+			"price" "5000"
+			"type" "pet"
+		}
+
+		"Chicken Zombie"
+		{
+			"model" "models/chicken/chicken_zombie.mdl"
+			"position" "50.0 0.0 0.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "idle01"
+			"run" "run01"
+			"price" "5000"
+			"type" "pet"
+		}
+
+		"Crow"
+		{
+			"model" "models/crow.mdl"
+			"position" "50.0 0.0 0.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "Idle01"
+			"run" "Run"
+			"unique_id" "crow_running"
+			"price" "5000"
+			"type" "pet"
+		}
+
+		"Crow Flying"
+		{
+			"model" "models/crow.mdl"
+			"position" "50.0 0.0 70.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "Fly01"
+			"run" "Fly01"
+			"unique_id" "crow_flying"
+			"price" "5000"
+			"type" "pet"
+		}
+
+		"Pigeon"
+		{
+			"model" "models/pigeon.mdl"
+			"position" "50.0 0.0 0.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "Idle01"
+			"run" "Run"
+			"unique_id" "pigeon_running"
+			"price" "5000"
+			"type" "pet"
+		}
+
+		"Pigeon Flying"
+		{
+			"model" "models/pigeon.mdl"
+			"position" "50.0 0.0 70.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "Fly01"
+			"run" "Fly01"
+			"unique_id" "pigeon_flying"
+			"price" "5000"
+			"type" "pet"
+		}
+
+		"Seagull"
+		{
+			"model" "models/seagull.mdl"
+			"position" "50.0 0.0 0.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "Idle01"
+			"run" "Run"
+			"unique_id" "seagull_running"
+			"price" "5000"
+			"type" "pet"
+		}
+
+		"Seagull Flying"
+		{
+			"model" "models/seagull.mdl"
+			"position" "50.0 0.0 70.0"
+			"angles" "0.0 0.0 0.0"
+			"idle" "Fly"
+			"run" "Fly"
+			"unique_id" "seagull_flying"
+			"price" "5000"
+			"type" "pet"
+		}
+	}
+	
+	"Accessories"
+	{
+		"Hats"
+		{
+			"Spartan Helmet"
+			{
+				"model"	"models/spartahelm/spartahelm.mdl"
+				"position" "0.0 -2.2 -68.4"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+
+			"Ironman"
+			{
+				"model"	"models/fo3_ironman_mask.mdl"
+				"position" "1.0 -4.6 -2.0"
+				"angles" "0.0 -90.0 -20.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+
+			"V Mask"
+			{
+				"model"	"models/v/mask.mdl"
+				"position" "0.0 -5.2 -65.2"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+
+			"Mudkip Hat"
+			{
+				"model"	"models/mudhatk/mudhatk.mdl"
+				"position" "0.0 -2.2 -68.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+
+			"Super Saiyan"
+			{
+				"model"	"models/anime_patron/animepatr.mdl"
+				"position" "0.0 -2.2 -68.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+		
+			"Antlers"
+			{
+				"model"	"models/sam/antlers.mdl"
+				"position" "0.0 0.0 2.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Watermelon"
+			{
+				"model"	"models/props_junk/watermelon01.mdl"
+				"position" "0.0 0.0 5.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Traffic Cone"
+			{
+				"model"	"models/props_junk/trafficcone001a.mdl"
+				"position" "0.0 -1.0 20.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Metal Bucket"
+			{
+				"model"	"models/props_junk/metalbucket01a.mdl"
+				"position" "0.0 0.0 -8.0"
+				"angles" "180.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Terracotta"
+			{
+				"model"	"models/props_junk/terracotta01.mdl"
+				"position" "0.0 3.0 -10.0"
+				"angles" "180.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Baseball Cap"
+			{
+				"model"	"models/props/cs_office/snowman_hat.mdl"
+				"position" "0.0 0.0 7.0"
+				"angles" "0.0 -90.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Coffee Mug"
+			{
+				"model"	"models/props/cs_office/coffee_mug.mdl"
+				"position" "0.0 0.0 9.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"I <3 Turtles"
+			{
+				"model"	"models/props/de_tides/vending_hat.mdl"
+				"position" "1.8 0.0 4.0"
+				"angles" "0.0 -90.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Astronaut helmet"
+			{
+				"model"	"models/astronauthelmet/astronauthelmet.mdl"
+				"position" "0.0 0.0 -5.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Viking helmet"
+			{
+				"model"	"models/vikinghelmet/vikinghelmet.mdl"
+				"position" "0.0 -1.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}	
+		
+			"KFC Bucket"
+			{
+				"model"	"models/gmod_tower/kfcbucket.mdl"
+				"position" "0.0 -1.0 3.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Cake Hat"
+			{
+				"model"	"models/cakehat/cakehat.mdl"
+				"position" "0.0 -1.0 3.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Sombrero"
+			{
+				"model"	"models/gmod_tower/sombrero.mdl"
+				"position" "0.0 -1.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Cat Ears"
+			{
+				"model"	"models/gmod_tower/catears.mdl"
+				"position" "0.0 -3.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Afro"
+			{
+				"model"	"models/gmod_tower/afro.mdl"
+				"position" "0.0 -3.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Drink Cap"
+			{
+				"model"	"models/gmod_tower/drinkcap.mdl"
+				"position" "0.0 -1.0 7.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Headcrab Hat"
+			{
+				"model"	"models/gmod_tower/headcrabhat.mdl"
+				"position" "0.0 -3.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Majorasmask"
+			{
+				"model"	"models/gmod_tower/majorasmask.mdl"
+				"position" "0.0 0.5 0.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Top Hat"
+			{
+				"model"	"models/gmod_tower/tophat.mdl"
+				"position" "0.0 -1.7 4.5"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Witch Hat"
+			{
+				"model"	"models/gmod_tower/witchhat.mdl"
+				"position" "0.0 0.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Party Hat"
+			{
+				"model"	"models/gmod_tower/partyhat.mdl"
+				"position" "1.0 -1.0 7.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Seuss Hat"
+			{
+				"model"	"models/gmod_tower/seusshat.mdl"
+				"position" "0.0 -1.0 6.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+			
+			"Link Hat"
+			{
+				"model"	"models/gmod_tower/linkhat.mdl"
+				"position" "0.0 -5.0 4.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "0"
+			}
+		}
+
+		"Masks"
+		{
+			"Porcelain Doll"
+			{
+				"model"	"models/player/holiday/facemasks/porcelain_doll.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Zombie Fortune"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_zombie_fortune_plastic.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Wolf"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_wolf.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Tiki"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tiki.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+
+			"Spy"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_spy_model.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+
+			"Soldier"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_soldier_model.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Sniper"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_sniper_model.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Scout"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_scout_model.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Pyro"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_pyro_model.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Medic"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_medic_model.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Heavy"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_heavy_model.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Engineer"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_engi_model.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Demoman"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_tf2_demo_model.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Skull"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_skull.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Skull (Gold)"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_skull_gold.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Sheep"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_sheep_model.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Sheep (Gold)"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_sheep_gold.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Sheep (Bloody)"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_sheep_bloody.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Samurai"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_samurai.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Pumpkin"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_pumpkin.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Porcelain Doll Kabuki"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_porcelain_doll_kabuki.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Hoxton"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_hoxton.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Devil"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_devil_plastic.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Dallas"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_dallas.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Chicken"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_chicken.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Chains"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_chains.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Bunny"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_bunny.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Bunny (Gold)"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_bunny.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Boar"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_boar.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Anaglyph"
+			{
+				"model"	"models/player/holiday/facemasks/facemask_anaglyph.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+
+			"Evil Clown"
+			{
+				"model"	"models/player/holiday/facemasks/evil_clown.mdl"
+				"attachment" "facemask"
+				"price" "2000"
+				"type" "hat"
+				"games" "csgo"
+				"slot" "3"
+			}
+		}
+
+		"Glasses"
+		{			
+			"Aviators"
+			{
+				"model"	"models/gmod_tower/aviators.mdl"
+				"position" "0.0 0.5 2.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "1"
+			}
+			
+			"Star Glasses"
+			{
+				"model"	"models/gmod_tower/starglasses.mdl"
+				"position" "0.0 0.5 2.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "1"
+			}
+			
+			"Kliener Glasses"
+			{
+				"model"	"models/gmod_tower/klienerglasses.mdl"
+				"position" "0.0 0.5 2.0"
+				"angles" "0.0 0.0 0.0"
+				"price" "2000"
+				"type" "hat"
+				"slot" "1"
+			}
+		}
+	}
+	
+	"Player Models"
+	{
+        "Elsa"
+		{
+			"model" "models/player/custom_player/killzonegaming/elsa/elsa.mdl"
+			"team" "4"
+			"price" "10000"
+			"type" "playerskin"
+		}
+        
+        "Davy Jones"
+		{
+			"model" "models/player/custom_player/killzonegaming/davyjones/davyjones.mdl"
+			"team" "4"
+			"price" "10000"
+			"type" "playerskin"           
+		}
+        
+        "Kim Jong Un"
+		{
+			"model" "models/player/custom_player/kuristaja/kim_jong_un/kim.mdl"
+			"team" "4"
+			"price" "10000"
+			"type" "playerskin"
+		}
+        
+        "Octodad"
+		{
+			"model" "models/player/custom_player/kuristaja/octodad/octodad_blue.mdl"
+			"team" "4"
+			"price" "10000"
+			"type" "playerskin"           
+		}  
+        
+        "Octodad Tuxedo"
+		{
+			"model" "models/player/custom_player/kuristaja/octodad/octodad_tuxedo.mdl"
+			"team" "4"
+			"price" "10000"
+			"type" "playerskin"
+		}
+        
+        "Putin"
+		{
+			"model" "models/player/custom_player/kuristaja/putin/putin.mdl"
+			"team" "4"
+			"price" "10000"
+			"type" "playerskin"            
+		}     
+        
+        "Shrek"
+		{
+			"model" "models/player/custom_player/kuristaja/shrek/shrek.mdl"
+			"team" "4"
+			"price" "10000"
+			"type" "playerskin"
+		}
+        
+        "Spiderman"
+		{
+			"model" "models/player/custom_player/kuristaja/spiderman/spiderman.mdl"
+			"team" "4"
+			"price" "10000"
+			"type" "playerskin"          
+		} 
+        
+        "Trump"
+		{
+			"model" "models/player/custom_player/kuristaja/trump/trump.mdl"
+			"team" "4"
+			"price" "10000"
+			"type" "playerskin"
+		}
+        
+		"Thanos"
+		{
+			"model" "models/player/custom_player/kaesar2018/thanos/thanos.mdl"
+			"team" "4"
+			"price" "10000"
+			"type" "playerskin"           
+		}
+		"Gamer Girl"
+		{
+			"model" "models/player/custom_player/voikanaa/misc/bikini_girl.mdl"
+			"team" "4"
+			"price" "10000"
+			"type" "playerskin"           
+		}     	
+	}
+	
+	"Trails"
+	{
+		"8Bit Mushroom"
+		{
+			"material" "materials/sprites/store/trails/8bitmushroom.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Arrow Rainbow"
+		{
+			"material" "materials/sprites/store/trails/arrowrainbow.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Arrows"
+		{
+			"material" "materials/sprites/store/trails/arrows.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Batman"
+		{
+			"material" "materials/sprites/store/trails/batman.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Beer Mug"
+		{
+			"material" "materials/sprites/store/trails/beermug.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Blue Lightning"
+		{
+			"material" "materials/sprites/store/trails/bluelightning.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Bullet Bill"
+		{
+			"material" "materials/sprites/store/trails/bulletbill.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Bullets"
+		{
+			"material" "materials/sprites/store/trails/bullets.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Candies"
+		{
+			"material" "materials/sprites/store/trails/candies.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Coca-Cola"
+		{
+			"material" "materials/sprites/store/trails/cocacola.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Color Bolt"
+		{
+			"material" "materials/sprites/store/trails/colorbolt.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Cookies"
+		{
+			"material" "materials/sprites/store/trails/cookies.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Cracked Beam"
+		{
+			"material" "materials/sprites/store/trails/crackedbeam.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Crown"
+		{
+			"material" "materials/sprites/store/trails/crown.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Deadmau5"
+		{
+			"material" "materials/sprites/store/trails/deadmau5.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Deadpool"
+		{
+			"material" "materials/sprites/store/trails/deadpool.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"DNA"
+		{
+			"material" "materials/sprites/store/trails/dna2.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Dollars"
+		{
+			"material" "materials/sprites/store/trails/dollars.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Donuts"
+		{
+			"material" "materials/sprites/store/trails/donuts.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Double Rainbow"
+		{
+			"material" "materials/sprites/store/trails/doublerainbow.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Dragon"
+		{
+			"material" "materials/sprites/store/trails/dragon.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Earth"
+		{
+			"material" "materials/sprites/store/trails/earth.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Energy"
+		{
+			"material" "materials/sprites/store/trails/energy.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Energyball"
+		{
+			"material" "materials/sprites/store/trails/energyball.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Ferrari"
+		{
+			"material" "materials/sprites/store/trails/ferrari.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Fire"
+		{
+			"material" "materials/sprites/store/trails/fire.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Heart"
+		{
+			"material" "materials/sprites/store/trails/heart.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Hex"
+		{
+			"material" "materials/sprites/store/trails/hex.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Hypnotic"
+		{
+			"material" "materials/sprites/store/trails/hypnotic.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Ice"
+		{
+			"material" "materials/sprites/store/trails/ice.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Kaleido Scope"
+		{
+			"material" "materials/sprites/store/trails/kaleidoscope.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Lightning 2"
+		{
+			"material" "materials/sprites/store/trails/lightning2.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Lightspeed"
+		{
+			"material" "materials/sprites/store/trails/lightspeed.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Lightwave"
+		{
+			"material" "materials/sprites/store/trails/lightwave.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Mcdonalds"
+		{
+			"material" "materials/sprites/store/trails/mcdonald.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Minecraft"
+		{
+			"material" "materials/sprites/store/trails/minecraft.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Paint Splatter"
+		{
+			"material" "materials/sprites/store/trails/paintsplatter.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Panda"
+		{
+			"material" "materials/sprites/store/trails/panda.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Pink Ribbon"
+		{
+			"material" "materials/sprites/store/trails/pinkribbon.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Potleaf"
+		{
+			"material" "materials/sprites/store/trails/potleaf.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Psych Triangle"
+		{
+			"material" "materials/sprites/store/trails/psychtriangle.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Purple Lightning"
+		{
+			"material" "materials/sprites/store/trails/purplelightning.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Question"
+		{
+			"material" "materials/sprites/store/trails/question.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Rainbow"
+		{
+			"material" "materials/sprites/store/trails/rainbow.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Smirnoff"
+		{
+			"material" "materials/sprites/store/trails/smirnoff.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Spongebob"
+		{
+			"material" "materials/sprites/store/trails/spongebob.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Star"
+		{
+			"material" "materials/sprites/store/trails/star.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Swirly"
+		{
+			"material" "materials/sprites/store/trails/swirly.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"trippy"
+		{
+			"material" "materials/sprites/store/trails/trippy.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Water"
+		{
+			"material" "materials/sprites/store/trails/water2.vmt"
+			"price" "5000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+	}
+}

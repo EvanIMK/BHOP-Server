@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom/killzonegaming/davyjones/head_diff_000_a_whi"
+	"$bumpmap" "models/player/custom/killzonegaming/davyjones/head_normal_000"
+$alphatest "1"
+	$phong 1
+	$phongexponent 30
+	$phongboost .005
+	$phongfresnelranges "[5 6 8]"					
+}

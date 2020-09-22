@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/voikanaa/misc/bikini_girl/BikiniGirl_Hair_D"
+	"$bumpmap" "models/player/voikanaa/misc/bikini_girl/BikiniGirl_Hair_N"
+
+	$alphatest 1
+	$alphatestreference .3
+	$nocull 1
+	
+	"$phong" "1"
+	"$phongBoost" "1"
+	"$phongExponent" "20"  
+	"$phongFresnelRanges" "[0 0.5 1]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" ".1"
+}

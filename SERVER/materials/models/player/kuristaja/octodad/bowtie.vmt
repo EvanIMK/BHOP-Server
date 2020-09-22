@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/octodad/bowtie"
+	"$bumpmap" 	"models/player/kuristaja/octodad/tophat_normal"
+
+	"$halflambert" 	"1"
+ 	"$phong"		 "1"
+	"$phongexponent" "35"	
+	"$phongboost"	".5"
+
+	//"$rimlight"               "1"
+	//"$rimlightexponent" "2"
+	//"$rimlightboost"	" .5"
+}

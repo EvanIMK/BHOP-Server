@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/shrek/shrekbody"
+	//"$alphatest" 1
+	"$nocull" 1
+	"$translucent" 1
+}

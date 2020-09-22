@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/maid_dragon/lucoa/default/eyes2"
+	"$nodecal" 1
+	"$alphatest" 1
+	$ambientocclusion 0
+	$halflambert 1
+
+
+	"$lightwarptexture" "models/dewobedil/maid_dragon/lucoa/default/toon_head"
+
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/dewobedil/maid_dragon/lucoa/default/phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+}

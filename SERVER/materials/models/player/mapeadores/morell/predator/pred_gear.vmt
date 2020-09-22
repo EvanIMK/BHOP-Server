@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/mapeadores/morell/predator/pred_gear"
+	"$bumpmap" "models/player/mapeadores/morell/predator/pred_gear_n"
+}

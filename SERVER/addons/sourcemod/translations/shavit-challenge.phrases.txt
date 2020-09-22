@@ -1,0 +1,107 @@
+"Phrases"
+{	
+	"ChallengeMenuTitle"
+	{
+		"en"		"Challenge: Select your opponent"
+	}
+	"ChallengeMenuTitle2"
+	{
+		"en"		"Challenge: Select race style"
+	}
+	"ChallengeMenuTitle3"
+	{
+		"en"		"Challenge: Select race track"
+	}
+	"ChallengeRequestSent"
+	{
+		"#format"   "{1:s},{2:s}"
+		"en"        "Challenge request sent to {1}{2}"
+		"pl"        "Wyzwałeś {1}{2}"
+	}
+	"ChallengeRequestReceive"
+	{
+		"#format"   "{1:s},{2:s},{3:s},{4:s},{5:s},{6:s},{7:s},{8:s},{9:s},{10:s}"
+		"en"        "{1}{2} {3}challenged you to a race. Style: {4}{5}{6}, Track: {7}{8}{9}. You have 20 seconds to {10}!accept"
+		"pl"        "{1}{2} {3}wyzwał Cię. Masz 20 sekund, żeby zaakceptować. Wpisz {4}!accept"
+	}
+	"ChallengeAccept"
+	{
+		"en"        "Challenge accepted."
+		"pl"        "Wyzwanie zaakceptowane."
+	}
+	"ChallengeSurrenderAnnounce"
+	{
+		"#format"   "{1:s},{2:s},{3:s},{4:s},{5:s},{6:s}"
+		"en"        "{1}{2} {3}won a race against {4}{5}! {6}(Surrender)"
+		"pl"        "{1}{2} {3}wygrał wyzwanie {4}{5}! {6}(Poddanie)"
+	}
+	"ChallengeInRace"
+	{
+		"en"        "You are already in a challenge."
+		"pl"        "Nie da rady. Jesteś w trakcie wyzwania."
+	}
+	"ChallengeNoPlayers"
+	{
+		"en"        "No valid players found."
+	}
+	"ChallengeOpponentInRace"
+	{
+		"#format"   "{1:s},{2:s},{3:s}"
+		"en"        "{1}{2} {3}is already in a race"
+	}
+	"ChallengeStarted1"
+	{
+		"en"        "Go!"
+	}
+	"ChallengeStarted2"
+	{	
+		"#format"	"{1:s}"
+		"en"        "If you want to surrender type {1}!surrender"
+	}
+	"ChallengeStarted3"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"        "Both of you can type {1}!abort {2}in chat to cancel the race"
+	}
+	"ChallengeWon"
+	{
+		"en"        "Race won! (your opponent has left the server)"
+	}
+	"ChallengeAborted"
+	{
+		"#format"   "{1:s},{2:s},{3:s}"
+		"en"        "Race versus {1}{2} {3}aborted."
+	}
+	"ChallengeFinishAnnounce"
+	{
+		"#format"   "{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"en"        "{1}{2} {3}won a race against {4}{5}"
+	}	
+	"ChallengeExpire"
+	{
+		"en"        "Race request expired"
+	}
+	"ChallengeDisagreeAbort"
+	{
+		"en"		"You have disagreed to abort the challenge"
+	}
+	"ChallengeAgreeAbort"
+	{
+		"en"		"You have agreed to abort the challenge. Waiting for your opponent."
+	}
+	"ChallengeAnnounce"
+	{
+		"#format"	"{1:s},{2:s}{3:s},{4:s},{5:s},{6:s},{7:s}"
+		"en"		"Challenge: {1} vs. {2}. Style: {3}{4}{5}. Track: {6}{7}"
+	}
+	"ChallengeCountdown"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1}"
+	}
+	"ChallengeStyleChange"
+	{
+		"#format"   "{1:s},{2:s},{3:s},{4:s},{5:s},{6:s}"
+		"en"        "{1}{2} {3}won a race against {4}{5} {6}(Changed style during race)."
+	}
+}

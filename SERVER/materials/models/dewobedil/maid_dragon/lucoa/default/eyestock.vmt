@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/maid_dragon/lucoa/default/body"
+	"$nodecal" 1
+	"$alphatest" 1
+	$ambientocclusion 0
+	$halflambert 1
+
+
+	"$lightwarptexture" "models/dewobedil/maid_dragon/lucoa/default/toon_head"
+}
