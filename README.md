@@ -9,6 +9,7 @@ Files in addons/sourcemod/scripting/ contain all the code from the various plugi
 
 ## DATABASE
 Map zones and tiers database files for over 2000 maps, including all the latest and private maps. 
+<br>sneaK has made a script to import the zones into an existing zones database. [Here](https://gist.github.com/sneak-it/333d8e8631d25abe37b0ac8f832fa325)
 
 ## WEB
 An updated stats page that works with the latest version of BhopTimer. 
