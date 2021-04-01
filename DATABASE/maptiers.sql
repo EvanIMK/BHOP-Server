@@ -1,7 +1,5 @@
 INSERT INTO `maptiers` (`map`, `tier`) VALUES
 ('autobhop_spacebar_warrior_csgo', 1),
-('bhopenclave', 1),
-('bhoptren', 1),
 ('bhop_', 1),
 ('bhop_0', 2),
 ('bhop_001inbox', 1),
