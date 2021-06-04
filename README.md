@@ -18,9 +18,6 @@ An updated stats page that works with the latest version of BhopTimer.
 Updated/private version of the IMK discord bhop bot. Requires its own hosting. 
 
 ## FastDL
-http://fastdl.imkservers.com/maps
+https://fastdl.imkservers.com/
 
-Over 1600 maps including all the latest maps and many private ports. 
-
-Please download all files and make your own FastDL server, this one will go down eventually. 
-
+Over 2000 CSGO maps and 5000 CSS maps. Including all the latest maps and many private ports. 
